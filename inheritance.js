@@ -38,5 +38,5 @@ console.log(cat.name);
 console.log(cat instanceof Animal);
 console.log(cat instanceof Cat);
 
-cat.name = 13.2314;
-// console.log(cat.name); // Error
+// cat.name = 13.2314; // Error
+// console.log(cat.name); 
